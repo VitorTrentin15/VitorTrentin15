@@ -1,8 +1,8 @@
 #Sobre nós
-- 👋 Olá, nossos nomes são: Daniel e Vitor
-- 👀 Nós estamos interessados em progamação e volei
-- 🌱 Estou atualmente aprendendo progamação
-- 📫 Como chegar até mim: vitor.trentin.rodrigues@escola.pr.gov.br //// daniel.schemiko@escola.pr.gov.br
+-  Olá, meu  nome: Vitor
+- :spades: Estou interessado em academia
+- :flower_playing_cards: Estou atualmente aprendendo progamação
+- :headphones: Como chegar até mim: vitor.trentin.rodrigues@escola.pr.gov.br 
 
 <!---
 VitorTrentin15/VitorTrentin15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
